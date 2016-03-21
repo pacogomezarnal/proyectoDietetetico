@@ -1,5 +1,6 @@
 package Interfaz;
 
+//Clase principal
 public class Principal {
 
 	public Principal() {
